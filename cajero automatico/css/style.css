@@ -1,0 +1,148 @@
+.content-cajero {
+    width: 606px;
+    background-color: cornflowerblue;
+    position: relative;
+    left: 362px;
+}
+
+h1, h4 {
+    text-align: center;
+}
+
+/******* CONTENEDOR DE VISTAS Y BOTONES *****/
+
+.content-vista {
+    width: 606px;
+    height: 277px;
+    background-color: crimson;
+}
+
+.mv-imagen {
+    width: 304px;
+    height: 258px;
+    padding-left: 0px;
+    position: relative;
+    bottom: 66px;
+}
+
+.pos-texto {
+    position: relative;
+    z-index: 1;
+    color: white;
+    top: 115px;
+}
+
+.aco-siguiente {
+    position: relative;
+    z-index: 1;
+    top: -133px;
+    left: 111px;
+}
+
+/***** BOTONES DE ACCIONES ******/
+
+.boton-limpiar {
+    position: relative;
+    left: 266px;
+    width: 86px;
+    bottom: 34px;
+}
+
+.boton-cancelar {
+    position: relative;
+    width: 104px;
+    left: 154px;
+    top: 4px;
+}
+
+.boton-enviar {
+    position: relative;
+    width: 81px;
+    left: 360px;
+    bottom: 72px;
+}
+
+/*****FIN ******/
+
+/************* FIN DEL CONTENEDOR *************/
+
+/*********** SECCIÓN IZQUIERDA ***********/
+
+.botones-izquierda {
+    position: relative;
+    top: 9px;
+    width: 145px;
+    height: 258px;
+    left: 1px;
+    text-align: center;
+    background-color: white;
+}
+
+.btn-primary {
+    position: relative;
+    top: 33px;
+    width: 129px;
+}
+
+.boton2 {
+    position: relative;
+    top: 39px;
+}
+
+.boton3 {
+    position: relative;
+    top: 78px;
+}
+
+/**********FINAL DE LA SECCIÓN **************/
+
+/***************ViSTA PANTALLA**************/
+
+.vista-pantalla {
+    width: 304px;
+    height: 258px;
+    background-color: white;
+    position: relative;
+    left: 147px;
+    top: -249px;
+    border-radius: 5px;
+}
+
+/*********FIN DE VISTA PANTALLA**********/
+
+/*********** SECCIÓN DERECHA ***********/
+
+.botones-derecha {
+    position: relative;
+    left: 452px;
+    bottom: 507px;
+    height: 258px;
+    width: 153px;
+    background-color: white;
+    text-align: center;
+}
+
+.boton5 {
+    position: relative;
+    top: 38px;
+}
+
+.boton6 {
+    position: relative;
+    top: 77px;
+}
+
+/**********FINAL DE LA SECCIÓN **************/
+
+/**************************************** CSS SEGUNDA PÁGINA - PÁGINA DE CUENTA ********************/
+
+.pos-texto2 {
+    position: relative;
+    top: 31px;
+}
+
+.mov-campo {
+    position: relative;
+    top: 55px;
+    left: 54px;
+}
